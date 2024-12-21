@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\alta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\alta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\alta.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\baja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\baja.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\proyprogii\\baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\baja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\proyprogii\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|c:\\users\\luisg\\onedrive\\documentos\\c charp\\proyprogii\\proyprogii\\menuadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\menuadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\proyprogii\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6E415298-00B9-4ACA-A6B7-96974B5AF7EE}|ProyProgII\\ProyProgII.csproj|solutionrelative:proyprogii\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Alta.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyProgII\\Alta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:35:12.08Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alta.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.Designer.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Alta.Designer.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.Designer.cs",
+              "RelativeToolTip": "ProyProgII\\Alta.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAADwv2wAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:28:32.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alta.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Alta.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Alta.cs",
+              "RelativeToolTip": "ProyProgII\\Alta.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T11:28:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Baja.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.Designer.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Baja.Designer.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.Designer.cs",
+              "RelativeToolTip": "ProyProgII\\Baja.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:54:06.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Baja.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Baja.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.cs*",
+              "RelativeToolTip": "ProyProgII\\Baja.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:52:26.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Lista.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Lista.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Lista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyProgII\\Lista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:43:48.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Baja.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Baja.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Baja.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "ProyProgII\\Baja.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:29:23.143Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuAdmin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\MenuAdmin.Designer.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.Designer.cs",
+              "RelativeToolTip": "ProyProgII\\MenuAdmin.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:36:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.cs",
+              "RelativeToolTip": "ProyProgII\\MenuAdmin.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwD4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:18:06.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\MenuAdmin.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\MenuAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyProgII\\MenuAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T03:42:39.124Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Productos.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Productos.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyProgII\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:14:21.769Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Productos.cs",
+              "RelativeDocumentMoniker": "ProyProgII\\Productos.cs",
+              "ToolTip": "C:\\Users\\luisg\\OneDrive\\Documentos\\C Charp\\ProyProgII\\ProyProgII\\Productos.cs",
+              "RelativeToolTip": "ProyProgII\\Productos.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAQwMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T07:23:38.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
